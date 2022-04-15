@@ -1,0 +1,2 @@
+[00:01:04]: [Join Announcement] 一只冬瓜
+[00:01:12]: [Leave Announcement] 一只冬瓜
